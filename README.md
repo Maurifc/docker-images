@@ -6,6 +6,11 @@ Instead of build, you can pull the images directly from my DockerHub
 docker image pull maurifc/stress-ng
 ```
 
+### Apache bench
+```bash
+docker image pull maurifc/apache-bench
+```
+
 # Useful commands
 
 ### Run using docker interactively
